@@ -13,6 +13,20 @@
       "name": "Linus Said",
       "coverUrl": "https://i.ibb.co/jgC3M37/unnameed.jpg",
       "mp3Url": "https://cdn.me-qr.com/mp3/14206644.mp3"
+    },
+    {
+      "artist": "John Denver",
+      "album": "Poems, Prayers & Promises",
+      "name": "Take Me Home, Country Roads",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Poems%2C_Prayers_and_Promises.jpg",
+      "mp3Url": "https://cdn.me-qr.com/wav/14305910.wav"
+    },
+    {
+      "artist": "Patrick Patrikios",
+      "album": "Forgiveness",
+      "name": "Forgiveness",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ca86bb9403f061467cd708c1",
+      "mp3Url": "https://cdn.me-qr.com/mp3/14305986.mp3"
     }
   ]
 }
