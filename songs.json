@@ -55,6 +55,20 @@
       "name": "Better Days",
       "coverUrl": "https://i1.sndcdn.com/artworks-yMvL04G8QWV38u0V-9d3T2w-t500x500.png",
       "mp3Url": "https://cdn.me-qr.com/mp3/14418894.mp3"
+    },
+    {
+      "artist": "TheFatRat",
+      "album": "Windfall",
+      "name": "Windfall",
+      "coverUrl": "https://i1.sndcdn.com/artworks-000095712884-pevdkf-t500x500.jpg",
+      "mp3Url": "https://cdn.me-qr.com/mp3/14429914.mp3"
+    },
+    {
+      "artist": "Tobu",
+      "album": "Infectious",
+      "name": "Infectious",
+      "coverUrl": "https://i1.sndcdn.com/artworks-000083092667-ekwdwi-t500x500.jpg",
+      "mp3Url": "https://cdn.me-qr.com/mp3/14430006.mp3"
     }
   ]
 }
