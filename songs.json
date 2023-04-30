@@ -69,6 +69,27 @@
       "name": "Infectious",
       "coverUrl": "https://i1.sndcdn.com/artworks-000083092667-ekwdwi-t500x500.jpg",
       "mp3Url": "https://cdn.me-qr.com/mp3/14430006.mp3"
+    },
+    {
+      "artist": "SUSE",
+      "album": "SUSE Music Parodies",
+      "name": "SUSE, Yes Please",
+      "coverUrl": "https://i.ibb.co/jgC3M37/unnameed.jpg",
+      "mp3Url": "https://cdn.me-qr.com/mp3/14430016.mp3"
+    },
+    {
+      "artist": "SUSE",
+      "album": "SUSE Music Parodies",
+      "name": "Can't Stop The SUSE",
+      "coverUrl": "https://i.ibb.co/jgC3M37/unnameed.jpg",
+      "mp3Url": "https://cdn.me-qr.com/mp3/14430030.mp3"
+    },
+    {
+      "artist": "SUSE",
+      "album": "SUSE Music Parodies",
+      "name": "We Didn't Start The Kernel",
+      "coverUrl": "https://i.ibb.co/jgC3M37/unnameed.jpg",
+      "mp3Url": "https://cdn.me-qr.com/m4a/14430042.m4a"
     }
   ]
 }
